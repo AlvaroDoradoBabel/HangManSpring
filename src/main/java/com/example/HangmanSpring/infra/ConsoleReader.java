@@ -44,6 +44,7 @@ public class ConsoleReader {
                     break;
                 case 1:
                     //Empieza el juego
+                    gameService.empiezaJuego();
 
                     break;
 
